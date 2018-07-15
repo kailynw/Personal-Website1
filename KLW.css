@@ -1,0 +1,232 @@
+body{
+	background-image: url("HTML Images/CHOOSETHIS.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	position: static;
+	
+	}
+
+#header{
+	text-align: left;
+}
+
+#profile {
+	height: 220px;
+	width:10%;
+	border-style: solid;
+	border-size: 3px;
+	top: 100px;
+margin-left: 10px;
+}
+#helloWorld{
+	width:70%;
+	height:202px;
+	margin-left:220px;
+	position: relative;
+	top: -220px;
+}
+
+
+
+#welcome{ 
+	font-size: 20pt;
+	padding: 12px;
+	background-color: silver;
+	width: 100%;
+	margin:0;
+margin-top:-150px;
+
+}
+
+
+#bio {
+margin-right: 5%;
+margin-left: 5%;
+	border-style: solid;
+	border-size: 2px; 
+	text-align: center;
+	font-size: 15pt;
+	padding: 20px;
+    float: center;
+}
+
+
+#ksa {
+	float: left;
+	height: 180px;
+	width: 18%;
+	border-style: solid;
+border-size: 5px;
+}
+
+#activ{
+	text-align: 800px;
+	border-style: solid);
+	background: linear-gradient(to right, white, red, blue);
+	font-size: 22px;
+}
+
+#denis {
+	float: center;
+	height: 180px;
+	width: 18%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#trash{
+	float: center;
+	height:180px;
+	width: 18%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#team {
+	float: center;
+	height: 180px;
+	width: 18%;
+	border-style: solid;
+border-size: 5px;	
+
+}
+
+#family{
+	text-align: 800px;
+	border-style: solid);
+	background-image:  url("HTML Images/familyGrad.jpg");
+	font-size: 22px;
+	margin: 0px;
+	padding: 0px;
+}
+
+ #bio, h2, #activities,#ksa,#activ, #team,#denis, #family,#trash{
+	
+	top: -200px;
+}
+
+#activities,#ksa,#activ, #team,#denis, #family,#trash,h4{
+	
+	top: -200px;
+}
+
+
+#couples{
+	float: left;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;
+padding: 0;
+margin:0;
+}
+
+#sisterandI{
+	float: center;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#sisters{
+	float: right;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+padding: 0;
+margin: 0;
+}
+
+#hike{
+	float: center;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#grandma{
+	float: center;
+	height: 220px;
+	width: 12%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#mom{
+	float: center;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#family1{
+	font-size: 25px;
+	border-style: solid;
+	border-color: black;
+	background-image: linear-gradient(grey, blue, grey);
+}
+
+#end{
+	font-size: 40px;
+	text-align: center;
+	text-decoration:none;
+}
+#facebook,#instagram, #linkedin{
+	width:48px;
+	height: 48px;
+	position:relative;
+	text-decoration: none;
+}
+#facebook:hover,#instagram:hover, #linkedin:hover{
+	opacity: .5;
+}
+
+#email{
+	font-size: 20px;
+	color:white;
+	text-decoration:none;
+	}
+
+#contact{
+text-align: center;
+color: white;
+text-decoration: none;
+font-size: 35px;
+}
+
+#kapp{
+	border-style: solid;
+	font-size: 23px;
+}
+
+#arrow{
+	margin-align: center;
+	height: 120px;
+	width: 200px;
+	margin-left: 50px;
+	
+}
+
+#upstate{
+	float: center;
+	height: 120px;
+	width: 200px;
+}
+
+#smc{
+	height: 120px;
+	width: 200px;
+	}
+	
+#ksaLink:hover{
+color: red;
+}
+
